@@ -1,3 +1,3 @@
-# react-ruxo9s
+## Moviemania
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ruxo9s)
+Search trending movies and series here.
